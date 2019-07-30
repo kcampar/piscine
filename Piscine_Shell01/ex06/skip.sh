@@ -1,6 +1,1 @@
-while echo 'ls -l'."\n"
-do
-	sh skip.sh
-	sleep
-done
-
+ls -l | sed -n 'n;p'
