@@ -1,0 +1,5 @@
+Credentials cache: API:1AD5EFCB-66C4-4094-B035-A784C43D3898
+        Principal: kcampar@42.FR
+
+  Issued                Expires               Principal
+Jul 29 20:14:13 2019  Aug  5 20:14:01 2019  krbtgt/42.FR@42.FR
