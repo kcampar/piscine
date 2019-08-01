@@ -1,2 +1,0 @@
-cat /etc/passwd | egrep -v '^(#|$)' | sed -n 'p;n' | rev |  tr "\n" " "
-
